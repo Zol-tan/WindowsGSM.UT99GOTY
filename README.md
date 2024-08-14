@@ -1,2 +1,3 @@
 WindowsGSM plugin for Unreal Tournament 1999 GOTY.
 Probably not done correctly, but whatever it works.... 
+You will need to "find" a copy of this, try archive.org ;) 

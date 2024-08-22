@@ -1,3 +1,3 @@
 WindowsGSM plugin for Unreal Tournament 1999 GOTY.
 Probably not done correctly, but whatever it works.... 
-You will need to have this game installed alrwady if not, "find" a copy of this, try archive.org ;) 
+You will need to have this game installed already. if not, "find" a copy of this, try archive.org ;) 
